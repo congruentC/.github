@@ -2,7 +2,7 @@
 
 I love C, but I sometimes find C does not come with things that I need.
 
-That is what this organization is for. A suite of tools I actually use, organized so I stop losing them.
+That is what CongruentC (Congruency) is for. A suite of tools I actually use, organized so I stop losing them.
 
 ---
 
