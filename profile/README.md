@@ -22,7 +22,7 @@ Nothing gets added here until I have built it, used it in a real project, and de
 |------|-------------|--------|
 | `cg_sv` | String view, a pointer and a length | Complete |
 | `cg_da` | Dynamic array, growable and generic | Complete |
-| `cg_sb` | String builder, append without managing memory manually | Planned |
+| `cg_sb` | String builder, append without managing memory manually | Functional |
 | `cg_hm` | Hash map, string keys and arbitrary values | Planned |
 | `cheaders` | Auto-generate header files from your source files | Planned |
 
