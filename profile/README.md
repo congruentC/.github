@@ -17,8 +17,8 @@ Nothing gets added here until I have built it, used it in a real project, and de
 | `cg_sv` | String view, a pointer and a length | Complete |
 | `cg_da` | Dynamic array, growable and generic | Complete |
 | `cg_sb` | String builder, append without managing memory manually | Functional |
-| `cg_hm` | Hash map, string keys and arbitrary values | Ongoing |
-| `cheaders` | Auto-generate header files from your source files | Planned |
+| `cg_hm` | Hash map, string keys and arbitrary values | Functional |
+| `cheaders` | Auto-generate header files from your source files | Ongoing |
 
 Each tool lives in its own repository. Some tools depend on others; dependencies are always minimal and clearly stated.
 
